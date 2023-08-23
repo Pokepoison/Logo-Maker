@@ -1,7 +1,7 @@
 # Logo-Maker
 
 ## Description
-The Logo-Maker is a Node.js command-line tool that allows you to generate logos by combining customizable text and shapes. The generated logo can be saved in both SVG and PNG formats. This tool utilizes the 'inquirer' library for user input, 'chalk' for colorful console output, and 'svg2img' to convert SVG to PNG images.
+The Logo-Maker is a Node.js command-line tool that allows the user to generate logos by combining customizable text and shapes. The generated logo can be saved in both SVG and PNG formats. This tool utilizes the 'inquirer' library for user input, 'chalk' for colorful console output, and 'svg2img' to convert SVG to PNG images.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -38,12 +38,16 @@ The tool will prompt you for input:
 
 After providing the required information, the tool will generate both an SVG and a PNG version of the logo. The files will be saved in the project directory as logo.svg and logo.png, respectively.
 
+Refer to this video guide for further instruction: 
+[Untitled_ Aug 23, 2023 4_24 PM.webm](https://github.com/Pokepoison/first-day-demo/assets/134848930/3acf4f1d-bd5a-4f58-90e9-e95a726643bd)
+
+
 
 ## License
 This project is licensed under the MIT license.
 
 ## Questions
-For any questions, please contact me:
+For any questions, contact me at:
 - GitHub: [pokepoison](https://github.com/pokepoison)
 
-  
+      
